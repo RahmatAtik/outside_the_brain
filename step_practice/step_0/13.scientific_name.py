@@ -1,0 +1,14 @@
+print("Bird");
+print("Avian");
+print();
+print("Horse");
+print("Equine");
+print()
+print("Cat");
+print("Feline");
+print();
+print("dog");
+print("canine");
+print()
+print("Rat");
+print("Murine");

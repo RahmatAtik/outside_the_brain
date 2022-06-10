@@ -1,0 +1,10 @@
+print("Arcturus");
+print("procyon");
+print('sirius');
+print(" Rigel kantaurus");
+print("canopus");
+print("Achernar");
+print("Rigel");
+print("vega");
+print(" capella");
+print("Betelgeuse");
