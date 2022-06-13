@@ -1,0 +1,14 @@
+satellite="tui amar mahiya mahiya mahi mahiya";
+print(satellite);
+print();
+song="buke chin chin korse hai monsudu tomai chai.,amra dugon dujona oi pramer duniyai.";
+print(song);
+print();
+img="cat dog pam dove ";
+print(img);
+print();
+fresh="🍎🍎🍎🍎🍎🍎🍎";
+print(fresh);
+print();
+google="I Want to be a criative progammer";
+print(google);

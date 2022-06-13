@@ -1,0 +1,2 @@
+mango_banana_apple_pam_tometo_alu_papa_coconut_lichi_poteto=True;
+print(mango_banana_apple_pam_tometo_alu_papa_coconut_lichi_poteto);
